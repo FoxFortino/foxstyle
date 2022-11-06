@@ -52,5 +52,5 @@ legend.fancybox      : True
 
 #figure
 figure.titlesize : xx-large
-figure.figsize   : 10, 8 
+figure.figsize   : 14, 7 
 figure.facecolor : 1
